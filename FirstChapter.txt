@@ -1,3 +1,4 @@
 JBoss Fuse is an OSGI Container 
 Apache Karaf supports for the OSGI functionalities
 -Due to this ability it supports for micro services
+-First we setup the environment it will help us to understand deep
