@@ -1,0 +1,2 @@
+JBoss Fuse is an OSGI Container 
+Apache Karaf supports for the OSGI functionalities
