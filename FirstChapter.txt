@@ -5,4 +5,3 @@ Apache Karaf supports for the OSGI functionalities
 -First we setup the environment it will help us to understand deep
 -First Apache KarafHands-On
 -Karaf is a OSGI container with the support of Apache Felix or Eclipse Equnix
--Bux Fix one
